@@ -1,3 +1,5 @@
+This is a fork of the statemachine emulator (https://github.com/GitJer/Some_RPI-Pico_stuff)
+
 # Emulator of a Raspberry Pi Pico PIO state machine
 
 ## What does it do
