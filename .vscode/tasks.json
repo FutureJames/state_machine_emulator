@@ -1,0 +1,18 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run digital_to_pin_program.py",
+			"type": "shell",
+			"command": "python3",
+			"args": [
+				"utility/digital_to_pin_program.py",
+				"utility/digital.csv",
+				"utility/pin_program",
+				"1"
+			],
+			"group": "build",
+			"problemMatcher": []
+		}
+	]
+}
